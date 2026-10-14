@@ -1,4 +1,5 @@
-
+#Project Euler - Largest Prime Factor
+#in which we find the required answer by checking all primes for divisibilty of rn in an increasing order
 i = 2
 rn = 600851475143
 Lprimefac = 0
